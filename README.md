@@ -1,3 +1,3 @@
-# Light and Dark Mode
+# :sun_with_face: Light and Dark Mode :new_moon:
 
-Project to demonstrate how to switch between dark and light mode by using a CSS data-theme 
+Project to demonstrate how to switch between light and dark mode by using a CSS data-theme 
