@@ -1,4 +1,4 @@
-# :sun_with_face: Light and Dark Mode :moon:
+# :sun_with_face: Light and Dark Mode :new_moon:
 
 ![GitHub language count](https://img.shields.io/github/languages/count/rafasz/light-dark-mode)
 ![GitHub top language](https://img.shields.io/github/languages/top/rafasz/light-dark-mode)
